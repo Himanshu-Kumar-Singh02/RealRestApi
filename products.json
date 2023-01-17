@@ -1,0 +1,68 @@
+[
+    {
+        "name": "iphone",
+        "price": 154,
+        "featured": false,
+        "company":"apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 164,
+        "featured": true,
+        "company":"apple"
+    },
+    {
+        "name": "iphone13",
+        "price": 1154,
+        "featured": true,
+        "company":"apple"
+    },
+    {
+        "name": "watch",
+        "price": 174,
+        "featured": false,
+        "company":"apple"
+    },
+    {
+        "name": "laptop",
+        "price": 2254,
+        "featured": true,
+        "company":"HP"
+    },
+    {
+        "name": "laptop10",
+        "price": 3254,
+        "featured": true,
+        "company":"dell"
+    },
+    {
+        "name": "galaxy",
+        "price": 54254,
+        "featured": true,
+        "company":"samsung"
+    },
+    {
+        "name": "galaxy10",
+        "price": 554254,
+        "featured": true,
+        "company":"samsung"
+    },
+    {
+        "name": "tab",
+        "price": 14254,
+        "featured": false,
+        "company":"nokia"
+    },
+    {
+        "name": "smartTab",
+        "price": 156254,
+        "featured": false,
+        "company":"nokia"
+    },
+    {
+        "name": "phone",
+        "price": 454,
+        "feature": true,
+        "company":"LG"
+    }
+]
